@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 👋, I'm Saksham Garg</h1>
-<h3 align="left">Web Development || Blockchain Enthusiast || Competitive coding in C++/Python || IT Student</h3>
+<h3 align="left">Web Developer || Blockchain Enthusiast || Competitive coder in C++/Python || IT Student</h3>
 
 
 - 🎓 I’m currently pursuing **B.Tech in Information Technology**
