@@ -23,7 +23,7 @@
 <a href="https://www.codechef.com/users/saksham101" target="blank"><img align="center" src="https://github.com/saksham101/MyProgs/blob/master/codechef.svg" alt="saksham101" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gargsaksham101" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="gargsaksham101" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gargsaksham101" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="gargsaksham101" height="30" width="40" /></a>
-
+<a href="https://auth.geeksforgeeks.org/user/gargsaksham101" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1200px-GeeksforGeeks.svg.png" alt="gargsaksham101" height="30" width="40" /></a>
 </p>
 
 
