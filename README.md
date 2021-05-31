@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/saksham101" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" alt="saksham101" height="30" width="40" /></a>
 <a href="https://fb.com/saksham.garg.77985" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg" alt="saksham.garg.77985" height="30" width="40" /></a>
 <a href="https://instagram.com/garg.sakshu" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" alt="garg.sakshu" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/saksham101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" color="red" alt="saksham101" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/saksham101" target="blank"><img align="center" src="https://twitter.com/codechef/photo" alt="saksham101" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gargsaksham101" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="gargsaksham101" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gargsaksham101" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="gargsaksham101" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/5606/" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" alt="#5606" height="30" width="40" /></a>
