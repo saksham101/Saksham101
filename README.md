@@ -4,13 +4,17 @@
 
 - 🎓 I’m currently pursuing **B.Tech in Information Technology**
 
-- 💬 Ask me about **Web Development**
+- 📣 Ask me about **Web Development**
 
 - 🎯 I’m currently working on **Blockchain Technology**
 
 - 💻 I’m currently learning **Data Structures and Algorithms**
 
 - 📫 How to reach me: **gargsaksham101@gmail.com**
+
+- 🤝🏻 Connect with me on: [LinkedIn](https://www.linkedin.com/in/saksham101/)
+
+- 📝 My Resume: [Saksham Garg Resume](https://drive.google.com/file/d/10dwFGkiQsJAu27wKGU3K-gSqHlUhfleD/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
