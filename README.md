@@ -14,7 +14,7 @@
 
 - 🙋🏻‍♂️ My Profile on: [**LinkedIn**](https://www.linkedin.com/in/saksham101/)
 
-- 📜 My Resume: [**Saksham Garg Resume**](https://drive.google.com/file/d/10dwFGkiQsJAu27wKGU3K-gSqHlUhfleD/view?usp=sharing)
+- 📜 My Resume: [**Saksham Garg Resume**](https://drive.google.com/file/d/1sinBHxhJSCZW2H1JZp_8DV7vmJB4uN8q/view?usp=sharing)
 
 
 <h3 align="left">🤝 Connect with me:</h3>
